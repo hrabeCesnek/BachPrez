@@ -96,7 +96,7 @@ SLO Upol}
 
  \begin{figure}[H]
  \centering
- \includegraphics[scale=0.05, angle = 270, origin = c]{../BachelorThesis/pictures/KarlsRuhe}
+ \includegraphics[scale=0.07, angle = 270, origin = c]{../BachelorThesis/pictures/KarlsRuhe}
  \caption{Prototyp kalibračního zdroje.}
  \label{UVsource}
 \end{figure}
@@ -116,7 +116,7 @@ SLO Upol}
 
  \begin{figure}[H]
  \centering
- \includegraphics[scale=0.04, angle = 0, origin = c]{../BachelorThesis/pictures/aprature1b}
+ \includegraphics[scale=0.07, angle = 0, origin = c]{../BachelorThesis/pictures/aprature1b}
  \caption{Testovací aparatura.}
  \label{UVsource}
 \end{figure}
@@ -179,8 +179,8 @@ SLO Upol}
 
 
 \begin{itemize}
- \item Zpětnovazební dioda musí být podrobena testům.
- \item Nutnost změření závislosti chování na teplotě, odezvy na pulzy a dlouhodobé stability.
+ \item Nastavování výkonu podle detekované hodnoty - detekce výšky pulzů za pomoci fotodiody.
+ \item Nutnost změření fotodiody - závislosti chování na teplotě, odezvy na pulzy a dlouhodobé stability.
 
 
 \end{itemize}
@@ -188,8 +188,8 @@ SLO Upol}
 
  \begin{figure}[H]
  \centering
- \includegraphics[scale=0.04, angle = 180, origin = c]{../BachelorThesis/pictures/transImpedance}
- \caption{Zpětnovazební test přes transimpedanční převodník.}
+ \includegraphics[scale=0.045, angle = 0, origin = c]{../BachelorThesis/pictures/optomechanics.png}
+ \caption{Zpětnovazební optomechanika.}
  \label{UVsource}
 \end{figure}
 
@@ -198,32 +198,186 @@ SLO Upol}
 
 
 \begin{frame}
-\frametitle{Analýza nabraných kalibračních dat}
-\begin{itemize}
- \item Při testech teleskopů nějaká kalibrační data již nabrána.
- \item Užití kalibračního UV zdroje umístěného do integrační koule, nasvěcování apertury teleskopu z různých poloh. 
- \item Hlavní účel analýzy - získání relativních kalibračních konstant pro 4 fotonásobiče.
 
-
-\end{itemize}
-
-
-
+ \begin{figure}[H]
+ \centering
+ \includegraphics[scale=0.4, angle = 0, origin = c]{../BachelorThesis/pictures/1V}
+ \caption{Závislost temných proudů na teplotě.}
+ \label{UVsource}
+\end{figure}
 
 
 \end{frame}
 
 \begin{frame}
-\frametitle{Ukázka analýzy}
+
  \begin{figure}[H]
  \centering
- \includegraphics[scale=0.2, angle = 0, origin = c]{../BachelorThesis/pictures/ukazka}
+ \includegraphics[scale=0.4, angle = 0, origin = c]{../BachelorThesis/pictures/pulse.png}
+ \caption{Detekovaný pulz přes I/U převodník.}
+ \label{UVsource}
+\end{figure}
+
+
+\end{frame}
+
+
+
+
+
+
+\begin{frame}
+
+ \begin{figure}[H]
+ \centering
+ \includegraphics[scale=0.4, angle = 0, origin = c]{../BachelorThesis/pictures/ArtiAging.png}
+ \caption{Stárnutí detekční fotodiody.}
+ \label{UVsource}
+\end{figure}
+
+
+\end{frame}
+
+
+
+\begin{frame}
+
+\begin{itemize}
+ \item 
+ Použití desky Nucleo F446RE. Nastavení synchronního vzorkování za pomoci provázání interních časovačů.
+ \item 
+ Navzorkování pulzů, a vyvození výšky pulzu - získání hodnoty aktuálního výkonu. Tato hodnota následně použita do PID regulátoru. 
+ 
+ \end{itemize}
+ \begin{figure}[H]
+ \centering
+ \includegraphics[scale=0.3, angle = 0, origin = c]{../BachelorThesis/pictures/PWMSampling.png}
+ \caption{Synchronizované vzorkování.}
+ \label{UVsource}
+\end{figure}
+
+
+\end{frame}
+
+
+\begin{frame}
+
+ \begin{figure}[H]
+ \centering
+ \includegraphics[scale=0.4, angle = 0, origin = c]{../BachelorThesis/pictures/LongTime.png}
+ \caption{Test upraveného zdroje.}
+ \label{UVsource}
+\end{figure}
+
+
+\end{frame}
+
+
+
+\begin{frame}
+\frametitle{Analýza kalibračních dat}
+\begin{itemize}
+ \item Užití kalibračního UV zdroje umístěného do integrační koule, nasvěcování apertury teleskopu z různých poloh. 
+ \item Hlavní účel analýzy - získání relativních odezvových konstant pro 4 fotonásobiče.
+ \item Porovnání s teoretickými modely.
+ 
+ 
+ 
+ \end{itemize}
+ \end{frame}  
+ 
+\begin{frame}
+\frametitle{Nasvícení fotonásobičů}
+ \begin{figure}[H]
+ \centering
+ \includegraphics[scale=0.2, angle = 0, origin = c]{../BachelorThesis/pictures/CalibPulses}
+ \caption{Signál viděný fotonásobiči.}
+ \label{UVsource}
+\end{figure}
+
+
+\end{frame}  
+ 
+\begin{frame}
+\frametitle{Ukázka distribuce}
+ \begin{figure}[H]
+ \centering
+ \includegraphics[scale=0.18, angle = 0, origin = c]{../BachelorThesis/pictures/right}
  \caption{Ukázka fitování distribucí maximální výšky kalibračních pulzů a srovnání pro 4 fotonásobiče.}
  \label{UVsource}
 \end{figure}
 
 
-\end{frame}
+\end{frame} 
+
+
+\begin{frame}
+\frametitle{Porovnání výsledků se simulacemi}
+
+\begin{table}[H]
+\centering
+\begin{tabular}{|c|c|c|c|}
+\hline
+   & pravá & levá & spodek \\ \hline
+$c_0$ & $0.2314 \pm 0.0002$    & $1$   				   & $0.1070 \pm 0.0002$     \\ \hline
+$c_1$ & $0.1397 \pm 0.0002$    & $0.7485 \pm 0.0003$   & $0.8061 \pm 0.0003$      \\ \hline
+$c_2$ & $0.9304 \pm 0.0004$    & $0.2138 \pm 0.0002$   & $0.1631 \pm 0.0002$      \\ \hline
+$c_3$ & $1$    				   & $0.2462 \pm 0.0002$   & $1$      \\ \hline
+\end{tabular}
+\caption{Tabulka naměřených konstant.}
+ \label{CalibConstTbl}
+\end{table}
+
+
+
+
+
+
+\begin{table}[H]
+
+\begin{tabular}{|c|c|c|c|}
+\hline
+   & pravá & levá & spodek \\ \hline
+$c_0$ & $0.48$    & $0.95$   & $0.44$     \\ \hline
+$c_1$ & $0.41$    & $1$   	 & $0.98$      \\ \hline
+$c_2$ & $1$    	  & $0.41$   & $0.46$      \\ \hline
+$c_3$ & $0.95$    & $0.46$   & $1$      \\ \hline
+\end{tabular}
+\caption{Tabulka konstant ze simulace.}
+ \label{CalibConstTblSim}
+\end{table}
+
+
+\end{frame} 
+ 
+ 
+\begin{frame}
+\frametitle{Monitorovací systém}
+ \begin{figure}[H]
+ \centering
+ \includegraphics[scale=0.13, angle = 0, origin = c]{../BachelorThesis/pictures/monitoringScheme}
+ \caption{Schéme monitorovacího systému.}
+ \label{UVsource}
+\end{figure}
+
+
+\end{frame} 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
