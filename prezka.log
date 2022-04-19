@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2021.9.25)  7 APR 2022 02:04
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2021.9.25)  19 APR 2022 06:55
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -988,17 +988,14 @@ Package babel Info: Making - an active character on input line 226.
 
 Package hyperref Warning: Composite letter `\textasciicaron+c'
 (hyperref)                not defined in PD1 encoding,
-(hyperref)                removing `\textasciicaron' on input line 12.
+(hyperref)                removing `\textasciicaron' on input line 22.
 
 
 Package hyperref Warning: Composite letter `\textring+u'
 (hyperref)                not defined in PD1 encoding,
-(hyperref)                removing `\textring' on input line 12.
+(hyperref)                removing `\textring' on input line 22.
 
 (./prezka.aux
-
-LaTeX Warning: Label `UVsource' multiply defined.
-
 
 LaTeX Warning: Label `UVsource' multiply defined.
 
@@ -1032,20 +1029,20 @@ LaTeX Warning: Label `UVsource' multiply defined.
 )
 \openout1 = `prezka.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -1113,7 +1110,7 @@ e
 ))
 ABD: EveryShipout initializing macros
 \AtBeginShipoutBox=\box54
-Package hyperref Info: Link coloring OFF on input line 12.
+Package hyperref Info: Link coloring OFF on input line 22.
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
@@ -1123,56 +1120,56 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 \c@section@level=\count163
 )
-LaTeX Info: Redefining \ref on input line 12.
-LaTeX Info: Redefining \pageref on input line 12.
-LaTeX Info: Redefining \nameref on input line 12.
+LaTeX Info: Redefining \ref on input line 22.
+LaTeX Info: Redefining \pageref on input line 22.
+LaTeX Info: Redefining \nameref on input line 22.
 
 (./prezka.out) (./prezka.out)
 \@outlinefile=\write5
 \openout5 = `prezka.out'.
 
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 12.
+(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 22.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 12.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 22.
 \symnumbers=\mathgroup6
 \sympureletters=\mathgroup7
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  OT1/cmss/m/n --> OT1/cmr/m/n on input line 12.
-LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 12.
+(Font)                  OT1/cmss/m/n --> OT1/cmr/m/n on input line 22.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 22.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 12.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 22.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 12.
-LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 12.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 22.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 22.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/m/n on input line 12.
+(Font)                  OT1/cmss/m/n --> OT1/cmss/m/n on input line 22.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> OT1/cmss/m/n on input line 12.
-LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 12.
+(Font)                  OT1/cmss/bx/n --> OT1/cmss/m/n on input line 22.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 22.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> OT1/cmss/m/it on input line 12.
+(Font)                  OT1/cmr/m/it --> OT1/cmss/m/it on input line 22.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> OT1/cmss/m/it on input line 12.
-LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 12.
+(Font)                  OT1/cmr/bx/it --> OT1/cmss/m/it on input line 22.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 22.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 12.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 22.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 12.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 22.
 LaTeX Font Info:    Overwriting symbol font `numbers' in version `bold'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/bx/n on input line 12.
+(Font)                  OT1/cmss/m/n --> OT1/cmss/bx/n on input line 22.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  OT1/cmss/m/it --> OT1/cmss/bx/it on input line 12.
+(Font)                  OT1/cmss/m/it --> OT1/cmss/bx/it on input line 22.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
-(Font)                  OT1/cmss/bx/n --> OT1/cmr/bx/n on input line 12.
+(Font)                  OT1/cmss/bx/n --> OT1/cmr/bx/n on input line 22.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> OT1/cmss/bx/n on input line 12.
+(Font)                  OT1/cmss/bx/n --> OT1/cmss/bx/n on input line 22.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/bx/n on input line 12.
+(Font)                  OT1/cmss/m/n --> OT1/cmss/bx/n on input line 22.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmss/m/it --> OT1/cmss/bx/it on input line 12.
+(Font)                  OT1/cmss/m/it --> OT1/cmss/bx/it on input line 22.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/bx/n on input line 12.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/bx/n on input line 22.
 
 (/usr/share/texlive/texmf-dist/tex/latex/translator/translator-basic-dictionary
 -English.dict
@@ -1198,10 +1195,15 @@ Dictionary: translator-numbers-dictionary, Language: English
 ry-English.dict
 Dictionary: translator-theorem-dictionary, Language: English 
 ) (./prezka.nav)
-Overfull \hbox (17.26959pt too wide) in paragraph at lines 12--12
+Overfull \hbox (17.26959pt too wide) in paragraph at lines 22--22
  [][][][]  
  []
 
+<fast.png, id=14, 1902.10625pt x 812.03375pt>
+File: fast.png Graphic file (type png)
+<use fast.png>
+Package pdftex.def Info: fast.png  used on input line 25.
+(pdftex.def)             Requested size: 550.00038pt x 273.13885pt.
 
 Overfull \hbox (17.26959pt too wide) has occurred while \output is active
  [][][][]  
@@ -1209,7 +1211,12 @@ Overfull \hbox (17.26959pt too wide) has occurred while \output is active
 
 [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./fast.png>]
+File: fast.png Graphic file (type png)
+<use fast.png>
+Package pdftex.def Info: fast.png  used on input line 37.
+(pdftex.def)             Requested size: 550.00038pt x 273.13885pt.
+
 Overfull \hbox (17.26959pt too wide) has occurred while \output is active
  [][][][]  
  []
@@ -1217,15 +1224,11 @@ Overfull \hbox (17.26959pt too wide) has occurred while \output is active
 [2
 
 ]
-LaTeX Font Info:    Try loading font information for U+msa on input line 39.
- (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
-File: umsa.fd 2013/01/14 v3.01 AMS symbols A
-)
-LaTeX Font Info:    Try loading font information for U+msb on input line 39.
+File: fast.png Graphic file (type png)
+<use fast.png>
+Package pdftex.def Info: fast.png  used on input line 49.
+(pdftex.def)             Requested size: 550.00038pt x 273.13885pt.
 
-(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
-File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
 Overfull \hbox (17.26959pt too wide) has occurred while \output is active
  [][][][]  
  []
@@ -1233,6 +1236,20 @@ Overfull \hbox (17.26959pt too wide) has occurred while \output is active
 [3
 
 ]
+LaTeX Font Info:    Try loading font information for U+msa on input line 61.
+ (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 61.
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+File: fast.png Graphic file (type png)
+<use fast.png>
+Package pdftex.def Info: fast.png  used on input line 61.
+(pdftex.def)             Requested size: 550.00038pt x 273.13885pt.
+
 Overfull \hbox (17.26959pt too wide) has occurred while \output is active
  [][][][]  
  []
@@ -1240,19 +1257,10 @@ Overfull \hbox (17.26959pt too wide) has occurred while \output is active
 [4
 
 ]
-<../BachelorThesis/pictures/fastTheoretical.png, id=127, 466.74374pt x 449.68pt
->
-File: ../BachelorThesis/pictures/fastTheoretical.png Graphic file (type png)
-<use ../BachelorThesis/pictures/fastTheoretical.png>
-Package pdftex.def Info: ../BachelorThesis/pictures/fastTheoretical.png  used o
-n input line 75.
-(pdftex.def)             Requested size: 140.0242pt x 134.90503pt.
-<../BachelorThesis/pictures/FASTReal.jpg, id=129, 1003.75pt x 1510.64375pt>
-File: ../BachelorThesis/pictures/FASTReal.jpg Graphic file (type jpg)
-<use ../BachelorThesis/pictures/FASTReal.jpg>
-Package pdftex.def Info: ../BachelorThesis/pictures/FASTReal.jpg  used on input
- line 75.
-(pdftex.def)             Requested size: 90.3336pt x 135.95207pt.
+File: fast.png Graphic file (type png)
+<use fast.png>
+Package pdftex.def Info: fast.png  used on input line 76.
+(pdftex.def)             Requested size: 550.00038pt x 273.13885pt.
 
 Overfull \hbox (17.26959pt too wide) has occurred while \output is active
  [][][][]  
@@ -1260,25 +1268,37 @@ Overfull \hbox (17.26959pt too wide) has occurred while \output is active
 
 [5
 
- <../BachelorThesis/pictures/fastTheoretical.png> <../BachelorThesis/pictures/F
-ASTReal.jpg>]
+]
+<../BachelorThesis/pictures/fastTheoretical.png, id=156, 466.74374pt x 449.68pt
+>
+File: ../BachelorThesis/pictures/fastTheoretical.png Graphic file (type png)
+<use ../BachelorThesis/pictures/fastTheoretical.png>
+Package pdftex.def Info: ../BachelorThesis/pictures/fastTheoretical.png  used o
+n input line 97.
+(pdftex.def)             Requested size: 140.0242pt x 134.90503pt.
+<../BachelorThesis/pictures/FASTReal.jpg, id=157, 1003.75pt x 1510.64375pt>
+File: ../BachelorThesis/pictures/FASTReal.jpg Graphic file (type jpg)
+<use ../BachelorThesis/pictures/FASTReal.jpg>
+Package pdftex.def Info: ../BachelorThesis/pictures/FASTReal.jpg  used on input
+ line 97.
+(pdftex.def)             Requested size: 90.3336pt x 135.95207pt.
+File: fast.png Graphic file (type png)
+<use fast.png>
+Package pdftex.def Info: fast.png  used on input line 97.
+(pdftex.def)             Requested size: 550.00038pt x 273.13885pt.
+
 Overfull \hbox (17.26959pt too wide) has occurred while \output is active
  [][][][]  
  []
 
 [6
 
-]
-<../BachelorThesis/pictures/KarlsRuhe.jpg, id=183, 4143.48pt x 3107.61pt>
-File: ../BachelorThesis/pictures/KarlsRuhe.jpg Graphic file (type jpg)
-<use ../BachelorThesis/pictures/KarlsRuhe.jpg>
-Package pdftex.def Info: ../BachelorThesis/pictures/KarlsRuhe.jpg  used on inpu
-t line 105.
-(pdftex.def)             Requested size: 290.07324pt x 217.55493pt.
-
-Overfull \vbox (66.48213pt too high) detected at line 105
- []
-
+ <../BachelorThesis/pictures/fastTheoretical.png> <../BachelorThesis/pictures/F
+ASTReal.jpg>]
+File: fast.png Graphic file (type png)
+<use fast.png>
+Package pdftex.def Info: fast.png  used on input line 113.
+(pdftex.def)             Requested size: 550.00038pt x 273.13885pt.
 
 Overfull \hbox (17.26959pt too wide) has occurred while \output is active
  [][][][]  
@@ -1286,50 +1306,45 @@ Overfull \hbox (17.26959pt too wide) has occurred while \output is active
 
 [7
 
- <../BachelorThesis/pictures/KarlsRuhe.jpg>]
-<../BachelorThesis/pictures/aprature1b.png, id=212, 4143.48pt x 3107.61pt>
-File: ../BachelorThesis/pictures/aprature1b.png Graphic file (type png)
-<use ../BachelorThesis/pictures/aprature1b.png>
-Package pdftex.def Info: ../BachelorThesis/pictures/aprature1b.png  used on inp
-ut line 125.
+]
+<../BachelorThesis/pictures/KarlsRuhe.jpg, id=212, 4143.48pt x 3107.61pt>
+File: ../BachelorThesis/pictures/KarlsRuhe.jpg Graphic file (type jpg)
+<use ../BachelorThesis/pictures/KarlsRuhe.jpg>
+Package pdftex.def Info: ../BachelorThesis/pictures/KarlsRuhe.jpg  used on inpu
+t line 127.
 (pdftex.def)             Requested size: 290.07324pt x 217.55493pt.
-pdfTeX warning (ext4): destination with the same identifier (name{UVsource}) ha
-s been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.125 \end{frame}
-                 
+
+Overfull \vbox (66.48213pt too high) detected at line 127
+ []
+
+File: fast.png Graphic file (type png)
+<use fast.png>
+Package pdftex.def Info: fast.png  used on input line 127.
+(pdftex.def)             Requested size: 550.00038pt x 273.13885pt.
+
 Overfull \hbox (17.26959pt too wide) has occurred while \output is active
  [][][][]  
  []
 
 [8
 
- <../BachelorThesis/pictures/aprature1b.png>]
-<../BachelorThesis/pictures/powers.png, id=241, 1401.235pt x 875.27pt>
-File: ../BachelorThesis/pictures/powers.png Graphic file (type png)
-<use ../BachelorThesis/pictures/powers.png>
-Package pdftex.def Info: ../BachelorThesis/pictures/powers.png  used on input l
-ine 144.
-(pdftex.def)             Requested size: 142.24843pt x 99.57881pt.
-<../BachelorThesis/pictures/Height.png, id=242, 1401.235pt x 875.27pt>
-File: ../BachelorThesis/pictures/Height.png Graphic file (type png)
-<use ../BachelorThesis/pictures/Height.png>
-Package pdftex.def Info: ../BachelorThesis/pictures/Height.png  used on input l
-ine 144.
-(pdftex.def)             Requested size: 142.24843pt x 113.80244pt.
-<../BachelorThesis/pictures/rise.png, id=243, 1401.235pt x 875.27pt>
-File: ../BachelorThesis/pictures/rise.png Graphic file (type png)
-<use ../BachelorThesis/pictures/rise.png>
-Package pdftex.def Info: ../BachelorThesis/pictures/rise.png  used on input lin
-e 144.
-(pdftex.def)             Requested size: 142.24843pt x 113.80244pt.
-<../BachelorThesis/pictures/Slope.png, id=244, 1401.235pt x 875.27pt>
-File: ../BachelorThesis/pictures/Slope.png Graphic file (type png)
-<use ../BachelorThesis/pictures/Slope.png>
-Package pdftex.def Info: ../BachelorThesis/pictures/Slope.png  used on input li
-ne 144.
-(pdftex.def)             Requested size: 142.24843pt x 113.80244pt.
+ <../BachelorThesis/pictures/KarlsRuhe.jpg>]
+<../BachelorThesis/pictures/aprature1b.png, id=241, 4143.48pt x 3107.61pt>
+File: ../BachelorThesis/pictures/aprature1b.png Graphic file (type png)
+<use ../BachelorThesis/pictures/aprature1b.png>
+Package pdftex.def Info: ../BachelorThesis/pictures/aprature1b.png  used on inp
+ut line 147.
+(pdftex.def)             Requested size: 290.07324pt x 217.55493pt.
+pdfTeX warning (ext4): destination with the same identifier (name{UVsource}) ha
+s been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.147 \end{frame}
+                 
+File: fast.png Graphic file (type png)
+<use fast.png>
+Package pdftex.def Info: fast.png  used on input line 147.
+(pdftex.def)             Requested size: 550.00038pt x 273.13885pt.
 
 Overfull \hbox (17.26959pt too wide) has occurred while \output is active
  [][][][]  
@@ -1337,8 +1352,35 @@ Overfull \hbox (17.26959pt too wide) has occurred while \output is active
 
 [9
 
- <../BachelorThesis/pictures/powers.png> <../BachelorThesis/pictures/Height.png
-> <../BachelorThesis/pictures/rise.png> <../BachelorThesis/pictures/Slope.png>]
+ <../BachelorThesis/pictures/aprature1b.png>]
+<../BachelorThesis/pictures/powers.png, id=269, 1401.235pt x 875.27pt>
+File: ../BachelorThesis/pictures/powers.png Graphic file (type png)
+<use ../BachelorThesis/pictures/powers.png>
+Package pdftex.def Info: ../BachelorThesis/pictures/powers.png  used on input l
+ine 166.
+(pdftex.def)             Requested size: 142.24843pt x 99.57881pt.
+<../BachelorThesis/pictures/Height.png, id=270, 1401.235pt x 875.27pt>
+File: ../BachelorThesis/pictures/Height.png Graphic file (type png)
+<use ../BachelorThesis/pictures/Height.png>
+Package pdftex.def Info: ../BachelorThesis/pictures/Height.png  used on input l
+ine 166.
+(pdftex.def)             Requested size: 142.24843pt x 113.80244pt.
+<../BachelorThesis/pictures/rise.png, id=271, 1401.235pt x 875.27pt>
+File: ../BachelorThesis/pictures/rise.png Graphic file (type png)
+<use ../BachelorThesis/pictures/rise.png>
+Package pdftex.def Info: ../BachelorThesis/pictures/rise.png  used on input lin
+e 166.
+(pdftex.def)             Requested size: 142.24843pt x 113.80244pt.
+<../BachelorThesis/pictures/Slope.png, id=272, 1401.235pt x 875.27pt>
+File: ../BachelorThesis/pictures/Slope.png Graphic file (type png)
+<use ../BachelorThesis/pictures/Slope.png>
+Package pdftex.def Info: ../BachelorThesis/pictures/Slope.png  used on input li
+ne 166.
+(pdftex.def)             Requested size: 142.24843pt x 113.80244pt.
+File: fast.png Graphic file (type png)
+<use fast.png>
+Package pdftex.def Info: fast.png  used on input line 166.
+(pdftex.def)             Requested size: 550.00038pt x 273.13885pt.
 
 Overfull \hbox (17.26959pt too wide) has occurred while \output is active
  [][][][]  
@@ -1346,40 +1388,35 @@ Overfull \hbox (17.26959pt too wide) has occurred while \output is active
 
 [10
 
-]
-<corrected1.png, id=297, 698.61pt x 473.77pt>
-File: corrected1.png Graphic file (type png)
-<use corrected1.png>
-Package pdftex.def Info: corrected1.png  used on input line 173.
-(pdftex.def)             Requested size: 279.43904pt x 189.50464pt.
-pdfTeX warning (ext4): destination with the same identifier (name{UVsource}) ha
-s been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.173 \end{frame}
-                 
+ <../BachelorThesis/pictures/powers.png> <../BachelorThesis/pictures/Height.png
+> <../BachelorThesis/pictures/rise.png> <../BachelorThesis/pictures/Slope.png>]
+File: fast.png Graphic file (type png)
+<use fast.png>
+Package pdftex.def Info: fast.png  used on input line 181.
+(pdftex.def)             Requested size: 550.00038pt x 273.13885pt.
+
 Overfull \hbox (17.26959pt too wide) has occurred while \output is active
  [][][][]  
  []
 
 [11
 
- <./corrected1.png>]
-<../BachelorThesis/pictures/optomechanics.png, id=324, 4143.48pt x 3107.61pt>
-File: ../BachelorThesis/pictures/optomechanics.png Graphic file (type png)
-<use ../BachelorThesis/pictures/optomechanics.png>
-Package pdftex.def Info: ../BachelorThesis/pictures/optomechanics.png  used on 
-input line 197.
-(pdftex.def)             Requested size: 186.44855pt x 139.83641pt.
+]
+<corrected1.png, id=325, 698.61pt x 473.77pt>
+File: corrected1.png Graphic file (type png)
+<use corrected1.png>
+Package pdftex.def Info: corrected1.png  used on input line 195.
+(pdftex.def)             Requested size: 279.43904pt x 189.50464pt.
 pdfTeX warning (ext4): destination with the same identifier (name{UVsource}) ha
 s been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.197 \end{frame}
+l.195 \end{frame}
                  
-Overfull \vbox (6.30356pt too high) detected at line 197
- []
-
+File: fast.png Graphic file (type png)
+<use fast.png>
+Package pdftex.def Info: fast.png  used on input line 195.
+(pdftex.def)             Requested size: 550.00038pt x 273.13885pt.
 
 Overfull \hbox (17.26959pt too wide) has occurred while \output is active
  [][][][]  
@@ -1387,125 +1424,158 @@ Overfull \hbox (17.26959pt too wide) has occurred while \output is active
 
 [12
 
- <../BachelorThesis/pictures/optomechanics.png>]
-<../BachelorThesis/pictures/1V.png, id=353, 523.9575pt x 355.3275pt>
-File: ../BachelorThesis/pictures/1V.png Graphic file (type png)
-<use ../BachelorThesis/pictures/1V.png>
-Package pdftex.def Info: ../BachelorThesis/pictures/1V.png  used on input line 
-210.
-(pdftex.def)             Requested size: 209.57928pt x 142.12846pt.
+ <./corrected1.png>]
+<../BachelorThesis/pictures/optomechanics.png, id=353, 4143.48pt x 3107.61pt>
+File: ../BachelorThesis/pictures/optomechanics.png Graphic file (type png)
+<use ../BachelorThesis/pictures/optomechanics.png>
+Package pdftex.def Info: ../BachelorThesis/pictures/optomechanics.png  used on 
+input line 219.
+(pdftex.def)             Requested size: 186.44855pt x 139.83641pt.
 pdfTeX warning (ext4): destination with the same identifier (name{UVsource}) ha
 s been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.210 \end{frame}
+l.219 \end{frame}
                  
+Overfull \vbox (6.30356pt too high) detected at line 219
+ []
+
+File: fast.png Graphic file (type png)
+<use fast.png>
+Package pdftex.def Info: fast.png  used on input line 219.
+(pdftex.def)             Requested size: 550.00038pt x 273.13885pt.
+
 Overfull \hbox (17.26959pt too wide) has occurred while \output is active
  [][][][]  
  []
 
 [13
 
- <../BachelorThesis/pictures/1V.png>]
-<../BachelorThesis/pictures/pulse.png, id=382, 807.015pt x 484.81125pt>
-File: ../BachelorThesis/pictures/pulse.png Graphic file (type png)
-<use ../BachelorThesis/pictures/pulse.png>
-Package pdftex.def Info: ../BachelorThesis/pictures/pulse.png  used on input li
-ne 222.
-(pdftex.def)             Requested size: 322.80028pt x 193.92105pt.
+ <../BachelorThesis/pictures/optomechanics.png>]
+<../BachelorThesis/pictures/1V.png, id=382, 523.9575pt x 355.3275pt>
+File: ../BachelorThesis/pictures/1V.png Graphic file (type png)
+<use ../BachelorThesis/pictures/1V.png>
+Package pdftex.def Info: ../BachelorThesis/pictures/1V.png  used on input line 
+232.
+(pdftex.def)             Requested size: 209.57928pt x 142.12846pt.
 pdfTeX warning (ext4): destination with the same identifier (name{UVsource}) ha
 s been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.222 \end{frame}
+l.232 \end{frame}
                  
+File: fast.png Graphic file (type png)
+<use fast.png>
+Package pdftex.def Info: fast.png  used on input line 232.
+(pdftex.def)             Requested size: 550.00038pt x 273.13885pt.
+
 Overfull \hbox (17.26959pt too wide) has occurred while \output is active
  [][][][]  
  []
 
 [14
 
- <../BachelorThesis/pictures/pulse.png>]
-<../BachelorThesis/pictures/ArtiAging.png, id=410, 698.61pt x 473.77pt>
-File: ../BachelorThesis/pictures/ArtiAging.png Graphic file (type png)
-<use ../BachelorThesis/pictures/ArtiAging.png>
-Package pdftex.def Info: ../BachelorThesis/pictures/ArtiAging.png  used on inpu
-t line 239.
-(pdftex.def)             Requested size: 279.43904pt x 189.50464pt.
+ <../BachelorThesis/pictures/1V.png>]
+<../BachelorThesis/pictures/pulse.png, id=410, 807.015pt x 484.81125pt>
+File: ../BachelorThesis/pictures/pulse.png Graphic file (type png)
+<use ../BachelorThesis/pictures/pulse.png>
+Package pdftex.def Info: ../BachelorThesis/pictures/pulse.png  used on input li
+ne 244.
+(pdftex.def)             Requested size: 322.80028pt x 193.92105pt.
 pdfTeX warning (ext4): destination with the same identifier (name{UVsource}) ha
 s been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.239 \end{frame}
+l.244 \end{frame}
                  
+File: fast.png Graphic file (type png)
+<use fast.png>
+Package pdftex.def Info: fast.png  used on input line 244.
+(pdftex.def)             Requested size: 550.00038pt x 273.13885pt.
+
 Overfull \hbox (17.26959pt too wide) has occurred while \output is active
  [][][][]  
  []
 
 [15
 
- <../BachelorThesis/pictures/ArtiAging.png>]
-<../BachelorThesis/pictures/PWMSampling.png, id=437, 803.0pt x 481.8pt>
-File: ../BachelorThesis/pictures/PWMSampling.png Graphic file (type png)
-<use ../BachelorThesis/pictures/PWMSampling.png>
-Package pdftex.def Info: ../BachelorThesis/pictures/PWMSampling.png  used on in
-put line 260.
-(pdftex.def)             Requested size: 240.90186pt x 144.5411pt.
+ <../BachelorThesis/pictures/pulse.png>]
+<../BachelorThesis/pictures/ArtiAging.png, id=438, 698.61pt x 473.77pt>
+File: ../BachelorThesis/pictures/ArtiAging.png Graphic file (type png)
+<use ../BachelorThesis/pictures/ArtiAging.png>
+Package pdftex.def Info: ../BachelorThesis/pictures/ArtiAging.png  used on inpu
+t line 261.
+(pdftex.def)             Requested size: 279.43904pt x 189.50464pt.
 pdfTeX warning (ext4): destination with the same identifier (name{UVsource}) ha
 s been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.260 \end{frame}
+l.261 \end{frame}
                  
+File: fast.png Graphic file (type png)
+<use fast.png>
+Package pdftex.def Info: fast.png  used on input line 261.
+(pdftex.def)             Requested size: 550.00038pt x 273.13885pt.
+
 Overfull \hbox (17.26959pt too wide) has occurred while \output is active
  [][][][]  
  []
 
 [16
 
- <../BachelorThesis/pictures/PWMSampling.png (PNG copy)>]
-<../BachelorThesis/pictures/LongTime.png, id=465, 698.61pt x 473.77pt>
-File: ../BachelorThesis/pictures/LongTime.png Graphic file (type png)
-<use ../BachelorThesis/pictures/LongTime.png>
-Package pdftex.def Info: ../BachelorThesis/pictures/LongTime.png  used on input
- line 273.
-(pdftex.def)             Requested size: 279.43904pt x 189.50464pt.
+ <../BachelorThesis/pictures/ArtiAging.png>]
+<../BachelorThesis/pictures/PWMSampling.png, id=466, 803.0pt x 481.8pt>
+File: ../BachelorThesis/pictures/PWMSampling.png Graphic file (type png)
+<use ../BachelorThesis/pictures/PWMSampling.png>
+Package pdftex.def Info: ../BachelorThesis/pictures/PWMSampling.png  used on in
+put line 282.
+(pdftex.def)             Requested size: 240.90186pt x 144.5411pt.
 pdfTeX warning (ext4): destination with the same identifier (name{UVsource}) ha
 s been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.273 \end{frame}
+l.282 \end{frame}
                  
+File: fast.png Graphic file (type png)
+<use fast.png>
+Package pdftex.def Info: fast.png  used on input line 282.
+(pdftex.def)             Requested size: 550.00038pt x 273.13885pt.
+
 Overfull \hbox (17.26959pt too wide) has occurred while \output is active
  [][][][]  
  []
 
 [17
 
- <../BachelorThesis/pictures/LongTime.png>]
+ <../BachelorThesis/pictures/PWMSampling.png (PNG copy)>]
+<../BachelorThesis/pictures/LongTime.png, id=493, 698.61pt x 473.77pt>
+File: ../BachelorThesis/pictures/LongTime.png Graphic file (type png)
+<use ../BachelorThesis/pictures/LongTime.png>
+Package pdftex.def Info: ../BachelorThesis/pictures/LongTime.png  used on input
+ line 295.
+(pdftex.def)             Requested size: 279.43904pt x 189.50464pt.
+pdfTeX warning (ext4): destination with the same identifier (name{UVsource}) ha
+s been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.295 \end{frame}
+                 
+File: fast.png Graphic file (type png)
+<use fast.png>
+Package pdftex.def Info: fast.png  used on input line 295.
+(pdftex.def)             Requested size: 550.00038pt x 273.13885pt.
+
 Overfull \hbox (17.26959pt too wide) has occurred while \output is active
  [][][][]  
  []
 
 [18
 
-]
-<../BachelorThesis/pictures/CalibPulses.png, id=518, 1438.37375pt x 1031.855pt>
-
-File: ../BachelorThesis/pictures/CalibPulses.png Graphic file (type png)
-<use ../BachelorThesis/pictures/CalibPulses.png>
-Package pdftex.def Info: ../BachelorThesis/pictures/CalibPulses.png  used on in
-put line 299.
-(pdftex.def)             Requested size: 287.66965pt x 206.36734pt.
-pdfTeX warning (ext4): destination with the same identifier (name{UVsource}) ha
-s been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.299 \end{frame}
-                 
-Overfull \vbox (11.3053pt too high) detected at line 299
- []
-
+ <../BachelorThesis/pictures/LongTime.png>]
+File: fast.png Graphic file (type png)
+<use fast.png>
+Package pdftex.def Info: fast.png  used on input line 309.
+(pdftex.def)             Requested size: 550.00038pt x 273.13885pt.
 
 Overfull \hbox (17.26959pt too wide) has occurred while \output is active
  [][][][]  
@@ -1513,22 +1583,27 @@ Overfull \hbox (17.26959pt too wide) has occurred while \output is active
 
 [19
 
- <../BachelorThesis/pictures/CalibPulses.png>]
-<../BachelorThesis/pictures/right.png, id=547, 1434.35875pt x 1030.85126pt>
-File: ../BachelorThesis/pictures/right.png Graphic file (type png)
-<use ../BachelorThesis/pictures/right.png>
-Package pdftex.def Info: ../BachelorThesis/pictures/right.png  used on input li
-ne 311.
-(pdftex.def)             Requested size: 258.17343pt x 185.54521pt.
+]
+<../BachelorThesis/pictures/CalibPulses.png, id=547, 1111.90407pt x 790.45313pt
+>
+File: ../BachelorThesis/pictures/CalibPulses.png Graphic file (type png)
+<use ../BachelorThesis/pictures/CalibPulses.png>
+Package pdftex.def Info: ../BachelorThesis/pictures/CalibPulses.png  used on in
+put line 321.
+(pdftex.def)             Requested size: 294.65317pt x 209.46907pt.
 pdfTeX warning (ext4): destination with the same identifier (name{UVsource}) ha
 s been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.311 \end{frame}
+l.321 \end{frame}
                  
-Overfull \vbox (0.88316pt too high) detected at line 311
+Overfull \vbox (14.40703pt too high) detected at line 321
  []
 
+File: fast.png Graphic file (type png)
+<use fast.png>
+Package pdftex.def Info: fast.png  used on input line 321.
+(pdftex.def)             Requested size: 550.00038pt x 273.13885pt.
 
 Overfull \hbox (17.26959pt too wide) has occurred while \output is active
  [][][][]  
@@ -1536,34 +1611,46 @@ Overfull \hbox (17.26959pt too wide) has occurred while \output is active
 
 [20
 
- <../BachelorThesis/pictures/right.png>]
+ <../BachelorThesis/pictures/CalibPulses.png>]
+<../BachelorThesis/pictures/right.png, id=576, 1434.35875pt x 1030.85126pt>
+File: ../BachelorThesis/pictures/right.png Graphic file (type png)
+<use ../BachelorThesis/pictures/right.png>
+Package pdftex.def Info: ../BachelorThesis/pictures/right.png  used on input li
+ne 333.
+(pdftex.def)             Requested size: 258.17343pt x 185.54521pt.
+pdfTeX warning (ext4): destination with the same identifier (name{UVsource}) ha
+s been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.333 \end{frame}
+                 
+Overfull \vbox (0.88316pt too high) detected at line 333
+ []
+
+File: fast.png Graphic file (type png)
+<use fast.png>
+Package pdftex.def Info: fast.png  used on input line 333.
+(pdftex.def)             Requested size: 550.00038pt x 273.13885pt.
+
 Overfull \hbox (17.26959pt too wide) has occurred while \output is active
  [][][][]  
  []
 
 [21
 
-]
-<../BachelorThesis/pictures/monitoringScheme.png, id=606, 1070.49937pt x 1412.2
-7625pt>
-File: ../BachelorThesis/pictures/monitoringScheme.png Graphic file (type png)
-<use ../BachelorThesis/pictures/monitoringScheme.png>
-Package pdftex.def Info: ../BachelorThesis/pictures/monitoringScheme.png  used 
-on input line 364.
-(pdftex.def)             Requested size: 139.1698pt x 183.60236pt.
-pdfTeX warning (ext4): destination with the same identifier (name{UVsource}) ha
-s been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.364 \end{frame}
-                 
+ <../BachelorThesis/pictures/right.png>]
+File: fast.png Graphic file (type png)
+<use fast.png>
+Package pdftex.def Info: fast.png  used on input line 373.
+(pdftex.def)             Requested size: 550.00038pt x 273.13885pt.
+
 Overfull \hbox (17.26959pt too wide) has occurred while \output is active
  [][][][]  
  []
 
 [22
 
- <../BachelorThesis/pictures/monitoringScheme.png>]
+]
 \tf@nav=\write6
 \openout6 = `prezka.nav'.
 
@@ -1573,11 +1660,11 @@ Overfull \hbox (17.26959pt too wide) has occurred while \output is active
 \tf@snm=\write8
 \openout8 = `prezka.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 386.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 386.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 395.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 395.
  (./prezka.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 386.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 386.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 395.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 395.
 Package rerunfilecheck Info: File `prezka.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 
@@ -1586,20 +1673,20 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 17889 strings out of 494848
- 334774 string characters out of 6178430
- 417632 words of memory out of 5000000
- 20744 multiletter control sequences out of 15000+600000
+ 17890 strings out of 494848
+ 334631 string characters out of 6178430
+ 417742 words of memory out of 5000000
+ 20745 multiletter control sequences out of 15000+600000
  10563 words of font info for 39 fonts, out of 8000000 for 9000
  46 hyphenation exceptions out of 8191
- 48i,16n,57p,792b,613s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 48i,16n,57p,792b,612s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/shar
 e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/share/texl
 ive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/share/texlive/tex
 mf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb></usr/share/texlive/texmf-di
 st/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on prezka.pdf (22 pages, 63092991 bytes).
+Output written on prezka.pdf (22 pages, 63919176 bytes).
 PDF statistics:
  666 PDF objects out of 1000 (max. 8388607)
  596 compressed objects within 6 object streams
