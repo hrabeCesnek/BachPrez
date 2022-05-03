@@ -2,11 +2,13 @@
 \usetheme{Boadilla}
 \usepackage[utf8]{inputenc}
 \usepackage[czech]{babel}
+\usepackage{datetime}
+\newdate{date}{05}{05}{2022}
 \title{Kalibrace a monitorování astročásticových teleskopů}
 \author{Daniel Staník}
 \institute{
-SLO UPOL}
-\date{\today}
+SLO}
+\date{\displaydate{date}}
 
 \setbeamertemplate{background} {\includegraphics[width=550 pt,height=\paperheight]{fast.png}}
 
@@ -14,24 +16,79 @@ SLO UPOL}
 
 
 
-\setbeamercolor{title}{fg=yellow}
-\setbeamercolor{frametitle}{fg=yellow}
-\setbeamercolor{normal text}{fg=green}
-\setbeamercolor{caption name}{fg=yellow}
+\setbeamercolor{author}{fg=green} 
+\setbeamercolor{institute}{fg=green} 
+\setbeamercolor{date}{fg=green}
+%\setbeamercolor{frametitle}{fg=yellow}
+
+%\setbeamercolor{caption name}{fg=yellow}
+
+
+
+
+
+
+
+\makeatletter
+\setbeamertemplate{footline}
+{%
+  \leavevmode%
+  \hbox{%
+  \begin{beamercolorbox}[wd=.333333\paperwidth,ht=2.25ex,dp=1ex,center]{author in head/foot}%
+    \usebeamerfont{author in head/foot}%
+    \insertshortauthor\expandafter\ifblank\expandafter{\beamer@shortinstitute}{}
+    {~~(\insertshortinstitute)}
+  \end{beamercolorbox}%
+  \begin{beamercolorbox}[wd=.333333\paperwidth,ht=2.25ex,dp=1ex,center]{title in head/foot}%
+%    \usebeamerfont{title in head/foot}\insertshorttitle
+  \end{beamercolorbox}%
+  \begin{beamercolorbox}[wd=.333333\paperwidth,ht=2.25ex,dp=1ex,right]{date in head/foot}%
+    \usebeamerfont{date in head/foot}\insertshortdate{}\hspace*{2em}
+    \usebeamercolor[fg]{page number in head/foot}%
+    \usebeamerfont{page number in head/foot}%
+    \usebeamertemplate{page number in head/foot}\hspace*{2ex} 
+  \end{beamercolorbox}}%
+  \vskip0pt%
+}
+\makeatother
+
+
+
+
+
+
+
+
+
+
+
 
 \begin{document}
+
+
 \begin{frame}
+
+{
+\setbeamercolor{title}{fg=yellow}
+\setbeamercolor{normal text}{fg=green}
 \titlepage
+}
 \end{frame}
 
 
+\setbeamertemplate{background}{}
+%\setbeamercolor{title}{fg=blue}
+%\setbeamercolor{frametitle}{fg=blue}
+%\setbeamercolor{normal text}{fg=black}
+%\setbeamercolor{caption name}{fg=blue}
 
 \begin{frame}
-\frametitle{Úvod}
+\frametitle{Cíle práce}
 \begin{itemize}
- \item Detekce kosmických částic s extrémní energií (tzv. UHERC).
- \item Testování a úpravy pulzního UV kalibračního zdroje.
- \item Analýza kalibračních dat.
+ \item Dlouhodobě otestovat stávající světelný UV zdroj pro kalibraci fluorescenčního teleskopu FAST. 
+ \item Navrhnout a pokusit se realizovat případná vylepšení stability. 
+ \item Provést měření vlastností optoelektronických prvků vhodných pro účely stabilizačního zdroje.
+ \item Analýza kalibračních dat z teleskopu FAST získaných za pomoci osvěcování UV zdrojem.
 \end{itemize}
 
 \end{frame}
@@ -41,24 +98,13 @@ SLO UPOL}
 \begin{frame}
 \frametitle{Úvod}
 \begin{itemize}
- \item Detekce kosmických částic s extrémní energií (tzv. UHERC).
+ \item FAST - fluorescenční detektor vysokoenergetických kosmických částic (UHECR).  
  \item Testování a úpravy pulzního UV kalibračního zdroje.
  \item Analýza kalibračních dat.
 \end{itemize}
 
 \end{frame}
 
-
-
-\begin{frame}
-\frametitle{Detekce kosmických částic s extrémní energií}
-\begin{itemize}
- \item energie $10^{18}$ až $10^{20}$ keV .
- \item Využití atmosféry jako kalorimetru. Vytvoření částicové a elektromagnetické spršky po zásahu energetickou částicí.
- \item Fluorescenční technika detekce - detekce deexcitačního slabého UV spektra.
-\end{itemize}
-
-\end{frame}
 
 
 
@@ -67,7 +113,8 @@ SLO UPOL}
 \begin{frame}
 \frametitle{Teleskop FAST}
 \begin{itemize}
- \item Fluorescenční teleskop pro detekci kosmických částic s extrémní energií (UHECR).
+ \item Fluorescenční teleskop pro detekci kosmických částic s extrémní energií (UHECR) ($10^{18}$ až $10^{20}$ eV).
+ \item Fluorescenční technika detekce - detekce deexcitačního slabého UV spektra dusíkových molekul atmosféry.
  \item Detekční část - čtyři fotonásobiče a superodrazná UV zrcadla.
  \item Dnes v provozu 4 prototypy.
  \item Budoucí účel - osazení velké plochy teleskopy tohoto typu a rekonstrukce spršek vyvolaných UHECR částicemi.
@@ -118,7 +165,7 @@ SLO UPOL}
 
  \begin{figure}[H]
  \centering
- \includegraphics[scale=0.07, angle = 270, origin = c]{../BachelorThesis/pictures/KarlsRuhe}
+ \includegraphics[scale=0.07, angle = 0, origin = c]{../BachelorThesis/pictures/KarlsRuhe}
  \caption{Prototyp kalibračního zdroje.}
  \label{UVsource}
 \end{figure}
@@ -373,9 +420,21 @@ $c_3$ & $0.95$    & $0.46$   & $1$      \\ \hline
 \end{frame}
 
 
+\begin{frame}
+\frametitle{Zhodnocení}
+\begin{itemize}
+ \item Podařilo se otestovat stávájící koncept UV zdroje. Byla zjištěna dlouhodobá změna výkonu, s největší pravděpodobností způsobena procesy v LED diodě.
+ \item Jako řešení otestována optická vazba využívající synchronizovaného vzorkování s regulátorem na bázi PID. Bylo dosaženo lepší stability.
+ \item Z kalibračních dat se podařilo vyvodit odezvové konstanty pro fotonásobiče, ale neshodují se s teoretickými.
+\end{itemize}
+
+\end{frame}
 
 
-
+\begin{frame}{}
+  \centering \Large
+  \emph{Děkuji za pozornost.}
+\end{frame}
 
 
 
