@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2021.10.6)  3 MAY 2022 15:50
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2021.9.25)  4 MAY 2022 21:09
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1270,106 +1270,127 @@ Package pdftex.def Info: fast.png  used on input line 76.
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./fast.png>] [2
 
-] [3
-
 ]
-LaTeX Font Info:    Try loading font information for U+msa on input line 123.
+LaTeX Font Info:    Try loading font information for U+msa on input line 124.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 123.
+LaTeX Font Info:    Try loading font information for U+msb on input line 124.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-) [4
+) [3
 
 ]
-<../BachelorThesis/pictures/fastTheoretical.png, id=124, 466.74374pt x 449.68pt
->
+<../BachelorThesis/pictures/fastTheoretical.png, id=99, 466.74374pt x 449.68pt>
+
 File: ../BachelorThesis/pictures/fastTheoretical.png Graphic file (type png)
 <use ../BachelorThesis/pictures/fastTheoretical.png>
 Package pdftex.def Info: ../BachelorThesis/pictures/fastTheoretical.png  used o
-n input line 144.
+n input line 145.
 (pdftex.def)             Requested size: 140.0242pt x 134.90503pt.
-<../BachelorThesis/pictures/FASTReal.jpg, id=125, 1003.75pt x 1510.64375pt>
+<../BachelorThesis/pictures/FASTReal.jpg, id=100, 1003.75pt x 1510.64375pt>
 File: ../BachelorThesis/pictures/FASTReal.jpg Graphic file (type jpg)
 <use ../BachelorThesis/pictures/FASTReal.jpg>
 Package pdftex.def Info: ../BachelorThesis/pictures/FASTReal.jpg  used on input
- line 144.
+ line 145.
 (pdftex.def)             Requested size: 90.3336pt x 135.95207pt.
- [5
+ [4
 
  <../BachelorThesis/pictures/fastTheoretical.png> <../BachelorThesis/pictures/F
 ASTReal.jpg>]
-[6
+[5
 
 ]
-<../BachelorThesis/pictures/KarlsRuhe.png, id=178, 1985.16656pt x 2524.93312pt>
+<../BachelorThesis/pictures/KarlsRuhe.png, id=153, 1985.16656pt x 2524.93312pt>
 
 File: ../BachelorThesis/pictures/KarlsRuhe.png Graphic file (type png)
 <use ../BachelorThesis/pictures/KarlsRuhe.png>
 Package pdftex.def Info: ../BachelorThesis/pictures/KarlsRuhe.png  used on inpu
-t line 174.
+t line 175.
 (pdftex.def)             Requested size: 138.97586pt x 176.76338pt.
- [7
+ [6
 
  <../BachelorThesis/pictures/KarlsRuhe.png>]
-<../BachelorThesis/pictures/aprature1b.png, id=207, 4143.48pt x 3107.61pt>
+<../BachelorThesis/pictures/aprature1b.png, id=181, 4143.48pt x 3107.61pt>
 File: ../BachelorThesis/pictures/aprature1b.png Graphic file (type png)
 <use ../BachelorThesis/pictures/aprature1b.png>
 Package pdftex.def Info: ../BachelorThesis/pictures/aprature1b.png  used on inp
-ut line 194.
+ut line 195.
 (pdftex.def)             Requested size: 290.07324pt x 217.55493pt.
 pdfTeX warning (ext4): destination with the same identifier (name{UVsource}) ha
 s been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.194 \end{frame}
-                  [8
+l.195 \end{frame}
+                  [7
 
  <../BachelorThesis/pictures/aprature1b.png>]
-<../BachelorThesis/pictures/powers.png, id=234, 1401.235pt x 875.27pt>
+<../BachelorThesis/pictures/powers.png, id=209, 1401.235pt x 875.27pt>
 File: ../BachelorThesis/pictures/powers.png Graphic file (type png)
 <use ../BachelorThesis/pictures/powers.png>
 Package pdftex.def Info: ../BachelorThesis/pictures/powers.png  used on input l
-ine 213.
-(pdftex.def)             Requested size: 142.24843pt x 99.57881pt.
-<../BachelorThesis/pictures/Height.png, id=235, 1401.235pt x 875.27pt>
+ine 216.
+(pdftex.def)             Requested size: 184.92511pt x 113.80244pt.
+
+Overfull \hbox (13.77747pt too wide) in paragraph at lines 216--216
+ [] 
+ []
+
+<../BachelorThesis/pictures/Height.png, id=210, 1401.235pt x 875.27pt>
 File: ../BachelorThesis/pictures/Height.png Graphic file (type png)
 <use ../BachelorThesis/pictures/Height.png>
 Package pdftex.def Info: ../BachelorThesis/pictures/Height.png  used on input l
-ine 213.
-(pdftex.def)             Requested size: 142.24843pt x 113.80244pt.
+ine 216.
+(pdftex.def)             Requested size: 184.92511pt x 113.80244pt.
+
+Overfull \hbox (13.77747pt too wide) in paragraph at lines 216--216
+ [] 
+ []
+
+[8
+
+ <../BachelorThesis/pictures/powers.png> <../BachelorThesis/pictures/Height.png
+>]
 <../BachelorThesis/pictures/rise.png, id=236, 1401.235pt x 875.27pt>
 File: ../BachelorThesis/pictures/rise.png Graphic file (type png)
 <use ../BachelorThesis/pictures/rise.png>
 Package pdftex.def Info: ../BachelorThesis/pictures/rise.png  used on input lin
-e 213.
-(pdftex.def)             Requested size: 142.24843pt x 113.80244pt.
+e 239.
+(pdftex.def)             Requested size: 184.92511pt x 113.80244pt.
+
+Overfull \hbox (13.77747pt too wide) in paragraph at lines 239--239
+ [] 
+ []
+
 <../BachelorThesis/pictures/Slope.png, id=237, 1401.235pt x 875.27pt>
 File: ../BachelorThesis/pictures/Slope.png Graphic file (type png)
 <use ../BachelorThesis/pictures/Slope.png>
 Package pdftex.def Info: ../BachelorThesis/pictures/Slope.png  used on input li
-ne 213.
-(pdftex.def)             Requested size: 142.24843pt x 113.80244pt.
- [9
+ne 239.
+(pdftex.def)             Requested size: 184.92511pt x 113.80244pt.
 
- <../BachelorThesis/pictures/powers.png> <../BachelorThesis/pictures/Height.png
-> <../BachelorThesis/pictures/rise.png> <../BachelorThesis/pictures/Slope.png>]
- [10
+Overfull \hbox (13.77747pt too wide) in paragraph at lines 239--239
+ [] 
+ []
+
+[9
+
+ <../BachelorThesis/pictures/rise.png> <../BachelorThesis/pictures/Slope.png>] 
+[10
 
 ]
 <corrected1.png, id=289, 698.61pt x 473.77pt>
 File: corrected1.png Graphic file (type png)
 <use corrected1.png>
-Package pdftex.def Info: corrected1.png  used on input line 242.
+Package pdftex.def Info: corrected1.png  used on input line 268.
 (pdftex.def)             Requested size: 279.43904pt x 189.50464pt.
 pdfTeX warning (ext4): destination with the same identifier (name{UVsource}) ha
 s been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.242 \end{frame}
+l.268 \end{frame}
                   [11
 
  <./corrected1.png>]
@@ -1377,15 +1398,15 @@ l.242 \end{frame}
 File: ../BachelorThesis/pictures/optomechanics.png Graphic file (type png)
 <use ../BachelorThesis/pictures/optomechanics.png>
 Package pdftex.def Info: ../BachelorThesis/pictures/optomechanics.png  used on 
-input line 266.
+input line 292.
 (pdftex.def)             Requested size: 186.44855pt x 139.83641pt.
 pdfTeX warning (ext4): destination with the same identifier (name{UVsource}) ha
 s been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.266 \end{frame}
+l.292 \end{frame}
                  
-Overfull \vbox (6.30356pt too high) detected at line 266
+Overfull \vbox (6.30356pt too high) detected at line 292
  []
 
 [12
@@ -1395,13 +1416,13 @@ Overfull \vbox (6.30356pt too high) detected at line 266
 File: ../BachelorThesis/pictures/1V.png Graphic file (type png)
 <use ../BachelorThesis/pictures/1V.png>
 Package pdftex.def Info: ../BachelorThesis/pictures/1V.png  used on input line 
-279.
+305.
 (pdftex.def)             Requested size: 209.57928pt x 142.12846pt.
 pdfTeX warning (ext4): destination with the same identifier (name{UVsource}) ha
 s been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.279 \end{frame}
+l.305 \end{frame}
                   [13
 
  <../BachelorThesis/pictures/1V.png>]
@@ -1409,13 +1430,13 @@ l.279 \end{frame}
 File: ../BachelorThesis/pictures/pulse.png Graphic file (type png)
 <use ../BachelorThesis/pictures/pulse.png>
 Package pdftex.def Info: ../BachelorThesis/pictures/pulse.png  used on input li
-ne 291.
+ne 317.
 (pdftex.def)             Requested size: 322.80028pt x 193.92105pt.
 pdfTeX warning (ext4): destination with the same identifier (name{UVsource}) ha
 s been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.291 \end{frame}
+l.317 \end{frame}
                   [14
 
  <../BachelorThesis/pictures/pulse.png>]
@@ -1423,13 +1444,13 @@ l.291 \end{frame}
 File: ../BachelorThesis/pictures/ArtiAging.png Graphic file (type png)
 <use ../BachelorThesis/pictures/ArtiAging.png>
 Package pdftex.def Info: ../BachelorThesis/pictures/ArtiAging.png  used on inpu
-t line 308.
+t line 334.
 (pdftex.def)             Requested size: 279.43904pt x 189.50464pt.
 pdfTeX warning (ext4): destination with the same identifier (name{UVsource}) ha
 s been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.308 \end{frame}
+l.334 \end{frame}
                   [15
 
  <../BachelorThesis/pictures/ArtiAging.png>]
@@ -1437,13 +1458,13 @@ l.308 \end{frame}
 File: ../BachelorThesis/pictures/PWMSampling.png Graphic file (type png)
 <use ../BachelorThesis/pictures/PWMSampling.png>
 Package pdftex.def Info: ../BachelorThesis/pictures/PWMSampling.png  used on in
-put line 329.
+put line 355.
 (pdftex.def)             Requested size: 240.90186pt x 144.5411pt.
 pdfTeX warning (ext4): destination with the same identifier (name{UVsource}) ha
 s been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.329 \end{frame}
+l.355 \end{frame}
                   [16
 
  <../BachelorThesis/pictures/PWMSampling.png (PNG copy)>]
@@ -1451,50 +1472,58 @@ l.329 \end{frame}
 File: ../BachelorThesis/pictures/LongTime.png Graphic file (type png)
 <use ../BachelorThesis/pictures/LongTime.png>
 Package pdftex.def Info: ../BachelorThesis/pictures/LongTime.png  used on input
- line 342.
+ line 368.
 (pdftex.def)             Requested size: 279.43904pt x 189.50464pt.
 pdfTeX warning (ext4): destination with the same identifier (name{UVsource}) ha
 s been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.342 \end{frame}
+l.368 \end{frame}
                   [17
 
- <../BachelorThesis/pictures/LongTime.png>] [18
+ <../BachelorThesis/pictures/LongTime.png>]
+<../BachelorThesis/pictures/orientation2.png, id=477, 542.77782pt x 527.72156pt
+>
+File: ../BachelorThesis/pictures/orientation2.png Graphic file (type png)
+<use ../BachelorThesis/pictures/orientation2.png>
+Package pdftex.def Info: ../BachelorThesis/pictures/orientation2.png  used on i
+nput line 384.
+(pdftex.def)             Requested size: 151.97675pt x 147.76103pt.
+ [18
 
-]
-<../BachelorThesis/pictures/CalibPulses.png, id=502, 1111.90407pt x 790.45313pt
+ <../BachelorThesis/pictures/orientation2.png>]
+<../BachelorThesis/pictures/CalibPulses.png, id=504, 1111.90407pt x 790.45313pt
 >
 File: ../BachelorThesis/pictures/CalibPulses.png Graphic file (type png)
 <use ../BachelorThesis/pictures/CalibPulses.png>
 Package pdftex.def Info: ../BachelorThesis/pictures/CalibPulses.png  used on in
-put line 368.
+put line 396.
 (pdftex.def)             Requested size: 294.65317pt x 209.46907pt.
 pdfTeX warning (ext4): destination with the same identifier (name{UVsource}) ha
 s been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.368 \end{frame}
+l.396 \end{frame}
                  
-Overfull \vbox (14.40703pt too high) detected at line 368
+Overfull \vbox (14.40703pt too high) detected at line 396
  []
 
 [19
 
  <../BachelorThesis/pictures/CalibPulses.png>]
-<../BachelorThesis/pictures/right.png, id=530, 1434.35875pt x 1030.85126pt>
+<../BachelorThesis/pictures/right.png, id=532, 1434.35875pt x 1030.85126pt>
 File: ../BachelorThesis/pictures/right.png Graphic file (type png)
 <use ../BachelorThesis/pictures/right.png>
 Package pdftex.def Info: ../BachelorThesis/pictures/right.png  used on input li
-ne 380.
+ne 408.
 (pdftex.def)             Requested size: 258.17343pt x 185.54521pt.
 pdfTeX warning (ext4): destination with the same identifier (name{UVsource}) ha
 s been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.380 \end{frame}
+l.408 \end{frame}
                  
-Overfull \vbox (0.88316pt too high) detected at line 380
+Overfull \vbox (0.88316pt too high) detected at line 408
  []
 
 [20
@@ -1515,11 +1544,11 @@ Overfull \vbox (0.88316pt too high) detected at line 380
 \tf@snm=\write8
 \openout8 = `prezka.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 454.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 454.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 482.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 482.
  (./prezka.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 454.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 454.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 482.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 482.
 Package rerunfilecheck Info: File `prezka.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 
@@ -1528,10 +1557,10 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 18733 strings out of 494848
- 347333 string characters out of 6178430
+ 18738 strings out of 494848
+ 347549 string characters out of 6178430
  445038 words of memory out of 5000000
- 21552 multiletter control sequences out of 15000+600000
+ 21556 multiletter control sequences out of 15000+600000
  10922 words of font info for 40 fonts, out of 8000000 for 9000
  46 hyphenation exceptions out of 8191
  48i,16n,57p,1042b,685s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1542,10 +1571,10 @@ ive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/share/texlive/tex
 mf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb></usr/share/texlive/texmf-di
 st/fonts/type1/public/amsfonts/cm/cmssi12.pfb></usr/share/texlive/texmf-dist/fo
 nts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on prezka.pdf (23 pages, 70299945 bytes).
+Output written on prezka.pdf (23 pages, 70400762 bytes).
 PDF statistics:
- 675 PDF objects out of 1000 (max. 8388607)
+ 677 PDF objects out of 1000 (max. 8388607)
  602 compressed objects within 7 object streams
  50 named destinations out of 1000 (max. 500000)
- 139 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 144 words of extra memory for PDF output out of 10000 (max. 10000000)
 
