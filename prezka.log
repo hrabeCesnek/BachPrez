@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2021.9.25)  4 MAY 2022 21:09
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2021.9.25)  2 JUN 2022 08:35
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1534,6 +1534,15 @@ Overfull \vbox (0.88316pt too high) detected at line 408
 
 ] [23
 
+] [24
+
+] [25
+
+] [26
+
+]
+[27
+
 ]
 \tf@nav=\write6
 \openout6 = `prezka.nav'.
@@ -1544,11 +1553,11 @@ Overfull \vbox (0.88316pt too high) detected at line 408
 \tf@snm=\write8
 \openout8 = `prezka.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 482.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 482.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 510.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 510.
  (./prezka.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 482.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 482.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 510.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 510.
 Package rerunfilecheck Info: File `prezka.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 
@@ -1557,10 +1566,10 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 18738 strings out of 494848
- 347549 string characters out of 6178430
+ 18755 strings out of 494848
+ 347697 string characters out of 6178430
  445038 words of memory out of 5000000
- 21556 multiletter control sequences out of 15000+600000
+ 21565 multiletter control sequences out of 15000+600000
  10922 words of font info for 40 fonts, out of 8000000 for 9000
  46 hyphenation exceptions out of 8191
  48i,16n,57p,1042b,685s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1571,10 +1580,10 @@ ive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/share/texlive/tex
 mf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb></usr/share/texlive/texmf-di
 st/fonts/type1/public/amsfonts/cm/cmssi12.pfb></usr/share/texlive/texmf-dist/fo
 nts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on prezka.pdf (23 pages, 70400762 bytes).
+Output written on prezka.pdf (27 pages, 70408153 bytes).
 PDF statistics:
- 677 PDF objects out of 1000 (max. 8388607)
- 602 compressed objects within 7 object streams
- 50 named destinations out of 1000 (max. 500000)
+ 779 PDF objects out of 1000 (max. 8388607)
+ 700 compressed objects within 7 object streams
+ 58 named destinations out of 1000 (max. 500000)
  144 words of extra memory for PDF output out of 10000 (max. 10000000)
 
